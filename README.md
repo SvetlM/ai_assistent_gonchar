@@ -2,8 +2,8 @@
 
 Ссылка на проект: [t.me/masterklassgonchar_bot](https://t.me/masterklassgonchar_bot)
 
-Скриншоты моего приложения в телеграм:
 ![скриншот1](https://github.com/SvetlM/ai_assistent_gonchar/blob/main/ai-g_1.png?raw=true)
+![скриншот2](https://github.com/SvetlM/ai_assistent_gonchar/blob/main/ai-g_2.png?raw=true)
 
 > Проект по автоматизации консультаций и записи клиентов на мастер-классы с использованием искусственного интеллекта.
 
